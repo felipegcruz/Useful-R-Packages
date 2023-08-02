@@ -95,5 +95,3 @@ There are thousands of helpful R packages for you to use, but navigating them al
 - **roxygen2**: A quick way to document your R packages. roxygen2 turns inline code comments into documentation pages and builds a package namespace. You can also read about the entire package development process online in Hadley Wickham's R Packages book.
 
 ---
-
-Feel free to use and modify this README.md to
